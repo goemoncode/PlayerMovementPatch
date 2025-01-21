@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<Name value="PlayerMovementPatch"/>
+	<DisplayName value="Player Movement Patch"/>
+	<Version value="1.0.0"/>
+	<Description value="This mod patches the game to fix issues with player movement."/>
+	<Author value="goemoncode"/>
+	<Website value=""/>
+</xml>
