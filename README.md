@@ -1,5 +1,7 @@
 # Player Movement Patch
 
+![Logo](logo.png)
+
 A mod for 7 Days to Die.
 
 This mod patches the game to fix issues with player movement.
